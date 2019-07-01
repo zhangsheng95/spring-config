@@ -3,10 +3,10 @@ spring:
     name: item-service
 
   rabbitmq:
-    host: 192.168.232.132
+    host: 192.168.142.128
     port: 15672
-    username: admin
-    password: admin  
+    username: qwer
+    password: qwer  
 #server:
 #  port: 8001
  
